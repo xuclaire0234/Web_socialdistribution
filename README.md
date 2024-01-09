@@ -1,22 +1,13 @@
-CMPUT404-project-socialdistribution
+Social Distribution Web app
 ===================================
 
-CMPUT404-project-socialdistribution
-
-See project.org (plain-text/org-mode) for a description of the project.
-
 Make a distributed social network!
-
-Contributing
-============
-
-Send a pull request and be sure to update this file with your name.
 
 Contributors / Licensing
 ========================
     avahmed
     shihao8
-    jx15
+    jx15 (Jingyi Xu)
     marquezp
     gurveers
 
